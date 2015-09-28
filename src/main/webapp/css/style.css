@@ -1,0 +1,40 @@
+.options{
+	float: none;
+	margin-top: 2em !important;
+	max-height: 100%;
+}
+
+.option-box{
+	cursor: pointer !important;
+}
+
+.my-header{
+	padding: 2em;
+}
+
+.question{
+	padding: 3em;
+}
+
+.my-input{
+	padding: 1.5em;
+	font-size: 18px;
+}
+
+.my-btn-submit{
+	padding: 0.8em !important;
+	font-size: 18px;
+}
+
+.boxOu{
+	padding: 3em;
+}
+
+.centered {
+	float: none;
+	margin: 0 auto;
+}
+
+nav{
+	color:white;
+}
