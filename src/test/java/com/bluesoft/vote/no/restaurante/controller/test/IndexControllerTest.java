@@ -43,7 +43,7 @@ public class IndexControllerTest {
 	@Test
 	public void shouldInsertData() {
 		
-		List<Restaurant> rl = new ArrayList<>();
+		List<Restaurant> rl = new ArrayList<Restaurant>();
 		
 		given(dao.list()).willReturn(rl);
 		
